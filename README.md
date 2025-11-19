@@ -1,3 +1,6 @@
 # DS 2003 Project - Group R
 
 Members: Caleb Kim, Daniel Song, Christina Yang
+
+Link to original XPT file which CDCBRFSS_2017.csv was derived from:
+https://drive.google.com/file/d/1J6ocOeea4J77gIS7k1OmHAm162uEfDn7/view?usp=sharing
